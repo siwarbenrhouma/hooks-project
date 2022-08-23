@@ -1,0 +1,17 @@
+#ff{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    font-size:6VH;
+    box-shadow: 10px 5px 5px gray;
+    background-color: gray;
+}
+#ff input,button {
+    height: 6VH;
+}
+span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}

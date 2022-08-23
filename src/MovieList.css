@@ -1,0 +1,12 @@
+
+.movies div{
+ display: flex;
+ flex-direction: column;
+align-items: flex-start;
+box-shadow: 10px 5px 5px #D3D3D3;
+}
+.movies{
+    display: flex;
+    gap: 5vw;
+    padding: 2vw;
+}
