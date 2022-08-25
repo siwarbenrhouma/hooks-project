@@ -7,8 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <div style={{background:"#F5F5F5"}}><App /></div>
-  
+ <App />
 );
 
 // If you want to start measuring performance in your app, pass a function
